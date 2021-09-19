@@ -1,35 +1,4 @@
-Skip to content
-Search or jump to…
-Pull requests
-Issues
-Marketplace
-Explore
- 
-@tirolenitin 
-tirolenitin
-/
-LGMVIP-Webdevelopment_1st
-Public
-1
-0
-0
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-LGMVIP-Webdevelopment_1st/lgm_1st/index.html
-@tirolenitin
-tirolenitin Add files via upload
-…
-Latest commit 00b2c6d 16 minutes ago
- History
- 1 contributor
-302 lines (280 sloc)  12.4 KB
+
   
 <!DOCTYPE html>
 <html lang="en">
